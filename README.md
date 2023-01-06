@@ -1,6 +1,10 @@
-yarn start
-```
 
+![alt text](https://github.com/NavigationHazard/eemacs/blob/main/assets/icons/logo2.png)
+
+
+
+```
+yarn start
 ---
 
 ### **Packaging for Production**
