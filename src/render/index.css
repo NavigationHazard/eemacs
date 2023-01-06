@@ -2,19 +2,14 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
-@font-face {
-  font-family: "Open Sans";
-  src: url(../../assets/fonts/OpenSans-Regular.ttf);
+
+html, body{
+    background-color: #e7e5e4;
 }
 
-.mac-red {
-  color: #ff605c;
+body{
+    height: 100vh;
 }
-
-.mac-orange {
-  color: #ffbd44;
-}
-
-.mac-green {
-  color: #00ca4e;
+h2{
+    font-weight: 700;
 }
